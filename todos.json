@@ -1,0 +1,80 @@
+[
+  {
+    "task": "test",
+    "description": "tyes",
+    "category": "👤 Kişisel",
+    "priority": "Yüksek",
+    "due_date": "04/01/2025",
+    "completed": true
+  },
+  {
+    "task": "test",
+    "category": "👤 Kişisel",
+    "priority": "Orta",
+    "due_date": "04/01/2025",
+    "completed": true
+  },
+  {
+    "task": "test",
+    "description": "test",
+    "category": "💼 İş",
+    "priority": "Yüksek",
+    "due_date": "04/01/2025",
+    "completed": false
+  },
+  {
+    "task": "test",
+    "description": "test",
+    "category": "🏠 Genel",
+    "priority": "Yüksek",
+    "due_date": "04/01/2025",
+    "completed": false
+  },
+  {
+    "task": "test",
+    "category": "📋 Görevler",
+    "priority": "Orta",
+    "due_date": "04/01/2025",
+    "completed": false
+  },
+  {
+    "task": "test",
+    "description": "trresdsfsd",
+    "category": "⭐ Önemli",
+    "priority": "Yüksek",
+    "due_date": "04/01/2025",
+    "completed": false
+  },
+  {
+    "task": "test",
+    "description": "naber",
+    "category": "📋 Görevler",
+    "priority": "Yüksek",
+    "due_date": "04/01/2025",
+    "completed": false
+  },
+  {
+    "task": "test",
+    "description": "test",
+    "category": "📋 Görevler",
+    "priority": "Orta",
+    "due_date": "04/01/2025",
+    "completed": false
+  },
+  {
+    "task": "test",
+    "description": "test",
+    "category": "☀️ Günüm",
+    "priority": "Orta",
+    "due_date": "09/01/2025",
+    "completed": false
+  },
+  {
+    "task": "test",
+    "description": "test",
+    "category": "☀️ Günüm",
+    "priority": "Yüksek",
+    "due_date": "04/01/2025",
+    "completed": true
+  }
+]
